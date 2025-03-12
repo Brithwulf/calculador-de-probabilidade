@@ -1,2 +1,6 @@
-# calculador-de-probabilidade
-Calcula a probabilidade de retirar um número x de bolas de determinadas cores de um chapéu
+# Formatador Aritmético
+
+Um projeto do freeCodeCamp que calcula a probabilidade de tirar um número específico de bolas de determinadas cores de dentro de um chapéu.
+
+## 📌 Tecnologias usadas:
+- Python
